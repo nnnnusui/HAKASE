@@ -14,4 +14,9 @@ Slack Botの 博士 です。
 1. スクリプト内の/\*SlackOutgoingWebHookToken\*/ を書き換えます
 1. スクリプト内の /\*SlackIncomingWebHookUrl\*/ を書き換えます
 
+
+## Support
+こちら(下記)のBotに関してサポートしています。
+- https://github.com/nethakha/SlackBlondeBot
+
 以上
